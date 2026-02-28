@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi
+I'm a 3d artist and engineer with soft skills honed by 4 years experience of teaching metallurgy, CAD, 3d art and programming.
+
+Currently based in St. Petersburg, Russia and looking for relocation option, thus developing portfolio.
+
+Most recent fun thing I've done is made a game with my wife, check web playable here: LINK
+(it even has internal asset browser)
+
+Due to internet censorship in Russia some contact options might fall off, so be sure to check email, telegram etc.
 
 <!--
 **swampspawn/swampspawn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
