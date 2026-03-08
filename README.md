@@ -3,7 +3,7 @@ I'm a 3d artist and engineer with soft skills honed by 4 years experience of tea
 
 Currently based in St. Petersburg, Russia and looking for relocation option, thus developing portfolio.
 
-Most recent fun thing I've done is made a game with my wife, check web playable here: LINK
+Most recent fun thing I've done is made a game with my wife, check web playable [here](https://swampspawn.github.io/rat-expedition-web-build/)
 (it even has internal asset browser)
 
 Due to internet censorship in Russia some contact options might fall off, so be sure to check email, telegram etc.
