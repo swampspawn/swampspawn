@@ -39,6 +39,6 @@ I bridge the gap between **Mechanical Engineering** and **Real-Time 3D Pipelines
 
 ---
 
-*“My background in Metallurgy and Mechanical Design allows me to create assets that don't just look good, but function with physical and mechanical logic.”*
+
 
 
