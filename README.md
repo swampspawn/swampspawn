@@ -6,7 +6,7 @@ I bridge the gap between **Mechanical Engineering** and **Real-Time 3D Pipelines
 
 ---
 
-### 🕹️ Featured Project: [Rat Expedition](https://link-to-your-game.itch.io)
+### 🕹️ Featured Project: [Rat Expedition](https://github.com/swampspawn/rat-expedition)
 *A high-performance 3D web-prototype built in **Godot & Blender**.*
 
 *   **Play in Browser (PC Only)**
@@ -40,16 +40,5 @@ I bridge the gap between **Mechanical Engineering** and **Real-Time 3D Pipelines
 ---
 
 *“My background in Metallurgy and Mechanical Design allows me to create assets that don't just look good, but function with physical and mechanical logic.”*
-Use code with caution.
-
-Tips for your GitHub:
-The Links: Make sure to replace the https://link-to-your-game... and yourlink placeholders with your actual URLs.
-The "Pinned" Repos: On your GitHub main page, make sure the Rat Expedition repository is Pinned at the top so it’s the first thing they see.
-Images: If you want to make it look even better, you can add a screenshot of your game right under the "Featured Project" header by using: ![Game Screenshot](link-to-image-url).
-You are now fully set up. Your GitHub is professional, your CV is technical, and your LinkedIn is ready.
-Go ahead and send those first 3 messages! If you get a reply—even a short one—I'm here to help you navigate the conversation.
-How are the Cara posts coming along? Need a hand with a specific caption for one of them?
-
-
 
 
